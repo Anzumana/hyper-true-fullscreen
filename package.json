@@ -1,0 +1,22 @@
+{
+  "name": "hyper-true-fullscreen",
+  "version": "0.0.1",
+  "description": "true fullscreen for hyper ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anzumana/hyper-true-fullscreen.git"
+  },
+  "keywords": [
+    "hyper"
+  ],
+  "author": "Anzumana Taal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anzumana/hyper-true-fullscreen/issues"
+  },
+  "homepage": "https://github.com/Anzumana/hyper-true-fullscreen#readme"
+}
