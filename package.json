@@ -1,6 +1,6 @@
 {
   "name": "hyper-true-fullscreen",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "true fullscreen for hyper ",
   "main": "index.js",
   "scripts": {
