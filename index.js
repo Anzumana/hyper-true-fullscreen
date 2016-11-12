@@ -1,7 +1,5 @@
 exports.decorateConfig = (config) => {
   return Object.assign({}, config, {
-    borderColor: 'pink',
-    cursorColor: 'pink',
     css: `
       ${config.css || ''}
       .header_header {
