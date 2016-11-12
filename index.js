@@ -4,11 +4,11 @@ exports.decorateConfig = (config) => {
     cursorColor: 'pink',
     css: `
       ${config.css || ''}
-      .tabs_nav .tabs_list .tab_text {
-        color: pink;
+      .header_header {
+        display: none;
       }
-      .tabs_nav .tabs_title {
-        color: pink;
+      .terms_terms {
+        margin-top: 0px;
       }
     `
   });
